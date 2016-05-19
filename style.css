@@ -6,17 +6,23 @@
 #container {
 	width: 900px;
 	margin: 0 auto;
-	padding: 10px 0 0 10px;
-	border-left: 2px solid lightgray;
+	background-color: #000;
 }
 
+h1 {
+	margin: 5px 5px 25px 5px;
+}
 h1,
 p {
-	margin-bottom: 25px;
+	color: #fff;
+	margin: 0 5px 10px 5px;
 }
 
 img {
-	display: block;
+	width: 435px;
+	height: 300px;
+	display: inline-block;
 	vertical-align: top;
-	margin-bottom: 5px;
+	margin: 5px;
+	border: 1px solid lightgrey;
 }
