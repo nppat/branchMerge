@@ -1,0 +1,22 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+#container {
+	width: 900px;
+	margin: 0 auto;
+	padding: 10px 0 0 10px;
+	border-left: 2px solid lightgray;
+}
+
+h1,
+p {
+	margin-bottom: 25px;
+}
+
+img {
+	display: block;
+	vertical-align: top;
+	margin-bottom: 5px;
+}
